@@ -11,3 +11,5 @@ Use C language and Practice it.
 4. **[Number System Converter](number-system-converter/README.md)**
 
 5. **[Month Calendar](month-calendar/README.md)**
+
+6. **[Chrome Dinosaur Game](chrome-dinosaur/README.md)**
