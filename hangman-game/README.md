@@ -1,5 +1,7 @@
 # Hangman Game
 
+[refer to: TalMizrahii/Hangman-game](https://github.com/TalMizrahii/Hangman-game)
+
 ## Description
 
 The hangman game is one of the most famous games played on computers.

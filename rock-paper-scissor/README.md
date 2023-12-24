@@ -1,5 +1,7 @@
 # Rock Paper Scissor
 
+[refer to geeksforgeeks](https://www.geeksforgeeks.org/rock-paper-scissor-in-c/)
+
 Is a hand game and played between two people.
 
 ## Description
